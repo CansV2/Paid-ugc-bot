@@ -1,4 +1,4 @@
-do thisin cmd prompt (make sure u ran command prompt as administator)
+do this in cmd prompt (make sure u ran command prompt as administator)
 
 pip install requests 
 pip install pycryptodome
