@@ -1,0 +1,7 @@
+do thisin cmd prompt (make sure u ran command prompt as administator)
+
+pip install requests 
+pip install pycryptodome
+pip install fade
+
+make sure u have python 3.10 and in the setup make sure u add it to path
